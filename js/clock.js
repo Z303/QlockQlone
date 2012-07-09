@@ -137,5 +137,7 @@ function update() {
 
 $(document).ready(function(){
 	update();
-	$(document).everyTime(1000, function(i) {update();});
+
+  	// Run the update every second
+  	setInterval( 'update();', 1000 );
 });
