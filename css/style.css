@@ -1,0 +1,15 @@
+body {
+	vertical-align: middle;
+}
+
+.qlockqlone {
+	width:  14em;
+	height:  14em;
+	font-family:  "Courier New", Courier, monospace;
+	font-size: xx-large;
+	font-weight: bold;
+	text-align: center;
+	color: #333333;
+	background-color: #000000;
+	margin:auto;
+}
